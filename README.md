@@ -15,6 +15,8 @@ Hardware – PCs, Cyclone II , USB flasher
 **Software – Quartus prime**
 
 **Theory**
+![WhatsApp Image 2024-10-29 at 10 50 31_fc3efcbc](https://github.com/user-attachments/assets/4a49a16c-1ec4-4b13-a2fd-eefaee44b0cd)
+
 
 **Logic Diagram**
 
@@ -44,18 +46,12 @@ endmodule
 Developed by: RegisterNumber:*/ 24005335
 
 
-**RTL realization**
-THE LOGIC GATES ARE STUDIED AND THE RTL OUTPUT IS VERIFIED
-
-**Output:**
-
-**RTL**
-![Screenshot 2024-10-29 212221](https://github.com/user-attachments/assets/eb31c25b-452d-400c-8fb6-6cdb0e5735d6)
-
+**RTL realization Output:**
+![Screenshot 2024-10-29 212221](https://github.com/user-attachments/assets/8c3fc74e-41ed-4df0-b77f-65072e1bd1cc)
 
 **Timing Diagram**
-![Screenshot 2024-11-05 102843](https://github.com/user-attachments/assets/d8d49455-9842-4160-8138-25ab7deb4d28)
 
+![Screenshot 2024-11-05 102843](https://github.com/user-attachments/assets/d8d49455-9842-4160-8138-25ab7deb4d28)
 
 **Result:**
 
